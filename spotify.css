@@ -208,11 +208,27 @@ padding: 10px;
     padding: 10px;
 }
 
+.Spotify-Playlists{
+   position:relative;
+ 
 
+}
 
+.Playbar{
+  position:absolute;
+  bottom:-75px;
+  background-color: rgb(32, 59, 32);
+  width:100%;
+  padding: 12px;
+  
+}
 
+.songbutton{
+    display:flex;
+    justify-content: center;
+    gap:16px;
 
-
+}
 
 
 
